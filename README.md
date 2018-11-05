@@ -1,5 +1,10 @@
 # README
+# Ruby on Rails Tutorial
 
+## "hello, world"
+
+This is a test run of the newer version of ruby on rails.
+Been a few years since I've had fun in the Ruby on Rails goodness.
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
